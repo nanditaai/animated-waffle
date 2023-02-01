@@ -1,0 +1,56 @@
+
+website-wide
+html {
+    background-color:rgb(138, 50, 150);
+    font-family: 'Open Sans', sans serif;
+}
+
+body {
+    background-color:bisque;
+    width: 600px;
+    margin: 0 auto;
+    border: 5px solid black;
+    padding: 0 20px 20px 20px;
+
+}
+h1 {
+    font-size:60px;
+    text-align: center;
+}
+p {
+    margin: 0;
+    padding: 20px 0;
+    font-size:24px;
+    line-height:2;
+    letter-spacing:5px;
+}
+
+li {
+    font-size:24px;
+    line-height:2;
+    letter-spacing:5px;
+}
+
+.bold {
+    font-weight: bold;
+}
+ 
+#plug {
+    color: blueviolet;
+}
+
+p.bold {
+    text-decoration: underline;
+}
+li.bold {
+    font-style:italic;
+}
+img {
+    width: 50vw;
+    margin: 0 auto;
+}
+div{
+    border: lightblue dotted 5px;
+    padding: 20px;
+    margin: 10px;
+}
