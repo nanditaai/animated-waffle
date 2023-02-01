@@ -1,15 +1,15 @@
 
 website-wide
 html {
-    background-color:rgb(138, 50, 150);
+    background-color:rgb(50, 60, 150);
     font-family: 'Open Sans', sans serif;
 }
 
 body {
-    background-color:bisque;
-    width: 600px;
+    background-color:rgb(255, 196, 196);
+    width: 300px;
     margin: 0 auto;
-    border: 5px solid black;
+    border: 5px solid #000000;
     padding: 0 20px 20px 20px;
 
 }
@@ -36,7 +36,7 @@ li {
 }
  
 #plug {
-    color: blueviolet;
+    color: rgb(226, 43, 43);
 }
 
 p.bold {
@@ -50,7 +50,7 @@ img {
     margin: 0 auto;
 }
 div{
-    border: lightblue dotted 5px;
+    border: lightblue 5px;
     padding: 20px;
     margin: 10px;
 }
